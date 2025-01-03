@@ -1,0 +1,14 @@
+terraform.tfstate
+variables.tfstate
+terraform.tfstate*
+terraform.tfstate.*
+low-tg-autoscaling-requirement.txt
+asglifecycletermination.zip
+asglifecycletermination.txt
+import-resource-command.txt
+lr-default.tfstate
+oldterraform/modules/modules.jso
+response.json
+planfile
+oldterraform*
+.terraform*
